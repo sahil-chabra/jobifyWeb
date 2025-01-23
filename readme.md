@@ -1,3 +1,3 @@
 # jobify
 
-For tracking job applications easily and never miss any oportunity😊
+For tracking job applications easily and never miss any oportunity
